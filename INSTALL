@@ -1,0 +1,12 @@
+Imprementacion de arreglos, clases, plantillas, algoritmos de busqueda
+y ordenamiento genericos en C++
+
+Belinda Brown - timna.brown@ucr.ac.cr
+License Apache 2.0
+
+
+Se distribuye un Makefile con 3 reglas:
+
+    * build: compila los fuentes.
+    * clean: borra los binarios.
+    * run: ejecuta un corrida de ejemplo.
