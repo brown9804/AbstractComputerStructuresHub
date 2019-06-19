@@ -9,7 +9,7 @@ $ make
  Si el copilador falla, puede ser porque tiene ciertos requerimeintos, posibles, por lo
  que debera digitar en la consola o terminal:
 
- Instala librerias en Debian/Ubuntu:
+ Instale librerias en Debian/Ubuntu:
  $ sudo apt-get install libncurses5-dev libncursesw5-dev
  Necesita algun actualizacion:
  $ softwareupdate --install -a
