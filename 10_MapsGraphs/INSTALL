@@ -1,0 +1,8 @@
+Grafos en Python
+
+License Apache 2.0
+
+
+Se distribuye dos atributos Makefile:
+    * build: interpreta el código.
+    * clean: limpia los ejecutables.
