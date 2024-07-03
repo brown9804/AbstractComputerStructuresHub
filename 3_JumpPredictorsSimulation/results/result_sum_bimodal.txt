@@ -1,0 +1,17 @@
+------------------------------------------------------------------------ 
+Prediction parameters: 
+ ------------------------------------------------------------------------ 
+Branch prediction type: Bimodal
+BHT size (entries): 16
+Global history register size: 4
+Private history register size: 3
+------------------------------------------------------------------------ 
+Simulation results: 
+------------------------------------------------------------------------
+Number of branch: 16416279
+Number of correct prediction of taken branches: 3035836
+Number of incorrect prediction of taken branches: 3175759
+Correct prediction of not taken branches: 8277536
+Incorrect prediction of not taken branches: 1927148
+Percentage of correct predictions: 68.9156%
+Time running: 37

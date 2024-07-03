@@ -1,0 +1,17 @@
+------------------------------------------------------------------------ 
+Prediction parameters: 
+ ------------------------------------------------------------------------ 
+Branch prediction type: Tournament
+BHT_t size (entries): 32
+Global history register size: 5
+Private history register size: 3
+------------------------------------------------------------------------ 
+Simulation results: 
+------------------------------------------------------------------------
+Number of branch: 16416279
+Number of correct prediction of taken branches: 2756916
+Number of incorrect prediction of taken branches: 3454679
+Correct prediction of not taken branches: 8067775
+Incorrect prediction of not taken branches: 2136909
+Percentage of correct predictions: 65.9388%
+Time running: 27

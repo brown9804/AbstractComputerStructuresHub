@@ -1,0 +1,35 @@
+------------------------------------------------------------------------
+
+Prediction parameters:
+
+------------------------------------------------------------------------
+
+Branch prediction type: PShare
+
+BHT size (entries): 32
+
+Global history register size: 4
+
+Private history register size: 3
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Simulation results:
+
+------------------------------------------------------------------------
+
+Number of branches: 16416279
+
+Number of correct predictions of taken branches: 2862181
+
+Number of incorrect predictions of taken branches: 3349414
+
+Number of correct predictions of not-taken branches: 8161471
+
+Number of incorrect predictions of not-taken branches: 2043213
+
+Percentage of correct predictions: 67.15
+
+------------------------------------------------------------------------
