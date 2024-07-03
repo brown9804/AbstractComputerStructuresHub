@@ -1,0 +1,28 @@
+SelectionSort()
+{
+
+    int i,j;
+    int menor = i;
+    array[n];
+
+    for (i = 1; i < n-1 ; i++)
+{
+        for (j = i+1; j < n; j++)
+        {
+            
+            if( array[j] < array[menor])
+            {
+                menor = j;
+            }
+
+        }
+
+            if(menor != i)
+            {
+                swap array[i] and array[menor];    
+            }
+}
+}
+
+// n, número de entradas del array
+
