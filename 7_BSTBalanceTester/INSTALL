@@ -1,0 +1,10 @@
+Implementación de la estructura de datos BinarySearchTree mediante plantillas en C++
+
+License Apache 2.0
+
+
+Se distribuye un Makefile con 3 reglas:
+
+    * build: compila los fuentes.
+    * clean: borra los binarios.
+    * run: ejecuta un corrida de ejemplo.

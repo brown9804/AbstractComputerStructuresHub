@@ -26,3 +26,4 @@ Belinda Brown, belindabrownr04@gmail.com
 4. `C++ and python` [Time Complexity and Order of Growth Analysis](./4_TimeDurationComplexityAnalysis/): This repository contains implementations of various algorithms in Python and C++, with a focus on understanding their time complexity and order of growth.
 5. `C++` [Stacks and Queues](./5_StacksTailsStructures/): Stacks and Queues are fundamental data structures in computer science that are used in various types of computation.
 6. `C++` [Binary Search Trees (ABB) vs Red-Black Trees](./6_BinaryABBVsRedBlackTrees/): This project explores two types of self-balancing binary search trees: Binary Search Trees (ABB) and Red-Black Trees.
+7. `C++` [Binary Search Tree Balance Tester](./7_BSTBalanceTester/): 
