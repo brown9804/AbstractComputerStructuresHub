@@ -1,4 +1,4 @@
-# Abstract Computer Structures 
+# Abstract Computer Structures - Designs/Algorithms 
 Costa Rica
 
 Belinda Brown, belindabrownr04@gmail.com
