@@ -9,7 +9,7 @@ Belinda Brown, belindabrownr04@gmail.com
 
 ----------
 
-To run the program, go to the folder through your console or terminal where the program is located, either "List" or the "Sort" or "Search" folder. You should enter and type in the console or terminal:
+List implemented with arrays, abstract class, classes positions, templates, search algorithms and generic order associated with an abstract list in C++. To run the program, go to the folder through your console or terminal where the program is located, either "List" or the "Sort" or "Search" folder. You should enter and type in the console or terminal:
 
 ```
 $ make
