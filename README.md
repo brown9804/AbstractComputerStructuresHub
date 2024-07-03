@@ -24,3 +24,4 @@ Belinda Brown, belindabrownr04@gmail.com
     - **Global History** (`-bp 2`): A jump predictor that uses the history of all branch instructions to predict the outcome of a branch.
     - **Tournament** (`-bp 3`): A jump predictor that uses both a global predictor and a private predictor, and chooses between them using a selector.
 4. `C++ and python` [Time Complexity and Order of Growth Analysis](./4_TimeDurationComplexityAnalysis/): This repository contains implementations of various algorithms in Python and C++, with a focus on understanding their time complexity and order of growth.
+5. `C++` [Stacks and Queues](./5_StacksTailsStructures/): Stacks and Queues are fundamental data structures in computer science that are used in various types of computation.
