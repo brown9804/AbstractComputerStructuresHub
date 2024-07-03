@@ -27,4 +27,5 @@ Belinda Brown, belindabrownr04@gmail.com
 5. `C++` [Stacks and Queues](./5_StacksTailsStructures/): Stacks and Queues are fundamental data structures in computer science that are used in various types of computation.
 6. `C++` [Binary Search Trees (ABB) vs Red-Black Trees](./6_BinaryABBVsRedBlackTrees/): This project explores two types of self-balancing binary search trees: Binary Search Trees (ABB) and Red-Black Trees.
 7. `C++` [Binary Search Tree Balance Tester](./7_BSTBalanceTester/): A Binary Search Tree (BST) is a tree data structure in which each node has at most two children, referred to as the left child and the right child. For each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater.
+8. `C++` [Lists and Arrays](./8_ListArrayMethods/): This repository contains code related to Lists and Arrays.
 
